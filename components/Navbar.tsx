@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="container">
       <h1 className="font-bold text-3xl">
         <Link href={'/'}>
-          RBlog
+          <span className="text-violet-800">R</span><span className="">Blog</span>
         </Link>
       </h1>
     </div>

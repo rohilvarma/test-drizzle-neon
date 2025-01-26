@@ -30,5 +30,5 @@ class DrizzleNeonConnector {
   }
 }
 
-const db = new DrizzleNeonConnector();
-export default db
+const drizzleConnector = new DrizzleNeonConnector();
+export default drizzleConnector
